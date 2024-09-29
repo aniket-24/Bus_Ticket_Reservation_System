@@ -1,0 +1,86 @@
+[
+  {
+    "model": "buses.bus",
+    "pk": 1,
+    "fields": {
+      "company_name": "Ashok Travels",
+      "bus_number": "DL1234",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "start_time": "09:00:00",
+      "end_time": "22:00:00",
+      "frequency": "Monday,Wednesday,Friday",
+      "total_seats": 40
+    }
+  },
+  {
+    "model": "buses.bus",
+    "pk": 2,
+    "fields": {
+      "company_name": "DTC Travels",
+      "bus_number": "DL5678",
+      "source": "Delhi",
+      "destination": "Chandigarh",
+      "start_time": "11:00:00",
+      "end_time": "14:00:00",
+      "frequency": "Tuesday,Thursday",
+      "total_seats": 30
+    }
+  },
+  {
+    "model": "buses.bus",
+    "pk": 3,
+    "fields": {
+      "company_name": "Intercity",
+      "bus_number": "DL2426",
+      "source": "Delhi",
+      "destination": "Dehradun",
+      "start_time": "14:00:00",
+      "end_time": "18:00:00",
+      "frequency": "Saturday,Sunday",
+      "total_seats": 24
+    }
+  },
+  {
+    "model": "buses.bus",
+    "pk": 4,
+    "fields": {
+      "company_name": "Volvo",
+      "bus_number": "DL1708",
+      "source": "Delhi",
+      "destination": "Mcleodganj",
+      "start_time": "23:00:00",
+      "end_time": "07:00:00",
+      "frequency": "Wednesday",
+      "total_seats": 50
+    }
+  },
+  {
+    "model": "buses.bus",
+    "pk": 5,
+    "fields": {
+      "company_name": "Karnataka Express",
+      "bus_number": "BLR1604",
+      "source": "Bangalore",
+      "destination": "Panjim",
+      "start_time": "22:00:00",
+      "end_time": "10:00:00",
+      "frequency": "Monday,Tuesday,Wednesday,Thursday,Friday",
+      "total_seats": 44
+    }
+  },
+  {
+    "model": "buses.bus",
+    "pk": 6,
+    "fields": {
+      "company_name": "PRTC",
+      "bus_number": "PUN2410",
+      "source": "Pune",
+      "destination": "Hyderabad",
+      "start_time": "11:00:00",
+      "end_time": "14:00:00",
+      "frequency": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday",
+      "total_seats": 50
+    }
+  }
+]
